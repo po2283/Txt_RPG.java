@@ -70,7 +70,7 @@ public class first extends character {
         }
     }
 
-    //이름과 적업을 저장
+    //이름과 직업을 저장
     public void setting_save() throws IOException{
         String name = c.getName();
         String job = c.getJob();
